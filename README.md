@@ -40,7 +40,7 @@ cd caminho/para/exerciciojson
 
 ---
 
-### 3. Crie e ative um ambiente virtual (opcional, mas recomendado)
+### 3. Crie e ative um ambiente virtual
 
 #### 🪟 Windows
 ```bash
@@ -123,4 +123,4 @@ EQUIPAMENTO: Chiller modelo CR-420, fabricante CoolTech
 ## 👤 Autor
 
 Desenvolvido por [@enzodias1](https://github.com/enzodias1)  
-Sinta-se à vontade para abrir *issues* ou sugerir melhorias!
+Sinta-se à vontade para sugerir melhorias!
